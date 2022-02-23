@@ -1,4 +1,4 @@
-# zingimmick.github.io
+# Zing's blog
 
 ### Packages
 
