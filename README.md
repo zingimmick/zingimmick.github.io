@@ -4,17 +4,17 @@
 
 #### Library
 
-[flysystem-obs](https://github.com/zingimmick/flysystem-obs): Flysystem adapter for the OBS SDK
+[flysystem-obs](https://github.com/zingimmick/flysystem-obs): OBS filesystem adapter for Flysystem
 
 [laravel-flysystem-obs](https://github.com/zingimmick/laravel-flysystem-obs): OBS storage filesystem for Laravel
 
-[flysystem-oss](https://github.com/zingimmick/flysystem-oss): Flysystem adapter for the OSS SDK
+[flysystem-oss](https://github.com/zingimmick/flysystem-oss): OSS filesystem adapter for Flysystem
 
 [laravel-flysystem-oss](https://github.com/zingimmick/laravel-flysystem-oss): OSS storage filesystem for Laravel
 
 [dingtalk-robot](https://github.com/zingimmick/dingtalk-robot): Send message via dingtalk robot
 
-[laravel-sms](https://github.com/zingimmick/laravel-sms): Provides sms notification channel for Laravel
+[laravel-sms](https://github.com/zingimmick/laravel-sms): Provides sms notification channel for Laravel.
 
 [laravel-scout-opensearch](https://github.com/zingimmick/laravel-scout-opensearch): Laravel Scout custom engine for OpenSearch
 
@@ -22,7 +22,7 @@
 
 #### Metapackage
 
-[grpc-metapackage](https://github.com/zingimmick/grpc-metapackage): gRPC metapackage is a simple composer inclusion list of gRPC: no API simply require it
+[grpc-metapackage](https://github.com/zingimmick/grpc-metapackage): gRPC metapackage is a simple composer inclusion list of gRPC: no API, simply require it
 
 ### Skeleton
 
