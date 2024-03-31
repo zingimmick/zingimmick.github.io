@@ -12,6 +12,10 @@
 
 [laravel-flysystem-oss](https://github.com/zingimmick/laravel-flysystem-oss): OSS storage filesystem for Laravel
 
+[flysystem-tos](https://github.com/zingimmick/flysystem-tos): TOS filesystem adapter for Flysystem
+
+[laravel-flysystem-tos](https://github.com/zingimmick/laravel-flysystem-tos): TOS storage filesystem for Laravel
+
 [dingtalk-robot](https://github.com/zingimmick/dingtalk-robot): Send message via dingtalk robot
 
 [laravel-sms](https://github.com/zingimmick/laravel-sms): Provides sms notification channel for Laravel.
@@ -39,3 +43,5 @@
 [alibabacloud-opensearch](https://github.com/zingimmick/alibabacloud-opensearch): Support install "Alibaba Cloud OpenSearch SDK for PHP" via composer
 
 [huaweicloud-sdk-php-obs](https://github.com/zingimmick/huaweicloud-sdk-php-obs): OBS PHP SDK
+
+[ve-tos-php-sdk](https://github.com/zingimmick/ve-tos-php-sdk): TOS PHP SDK
